@@ -5,6 +5,23 @@ app_description = "Promantias Test App"
 app_email = "admin@promantia.com"
 app_license = "agpl-3.0"
 
+
+fixtures = [
+    {
+        "dt": "Builder Component", 
+    },
+    {
+        "dt": "Builder Page", 
+    },
+    {
+        "dt": "File", 
+        "filters": [["folder", "=", "Home/Builder Uploads"]]
+    },
+    {
+        "dt": "Block Template" 
+    }
+]
+
 # Apps
 # ------------------
 

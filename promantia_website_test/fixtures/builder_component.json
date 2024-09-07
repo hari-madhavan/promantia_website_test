@@ -1,0 +1,22 @@
+[
+ {
+  "block": "{\"blockId\":\"5a9wx65l7\",\"children\":[],\"baseStyles\":{\"objectFit\":\"fill\",\"flexShrink\":0,\"width\":\"1473px\",\"height\":\"422px\",\"boxShadow\":\"rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px, rgba(0, 0, 0, 0.05) 0px 1px 3px 0px\"},\"rawStyles\":{},\"mobileStyles\":{},\"tabletStyles\":{},\"attributes\":{\"src\":\"/files/logo.webp\"},\"classes\":[],\"dataKey\":null,\"blockName\":\"logo\",\"element\":\"img\",\"customAttributes\":{}}",
+  "component_id": "5563a2f920d32a63",
+  "component_name": "Logo",
+  "docstatus": 0,
+  "doctype": "Builder Component",
+  "for_web_page": "page-a5f5e89e",
+  "modified": "2024-09-07 11:16:58.402043",
+  "name": "5563a2f920d32a63"
+ },
+ {
+  "block": "{\"blockId\":\"epo4fgv2j\",\"children\":[],\"baseStyles\":{\"fontSize\":\"112px\",\"width\":\"fit-content\",\"height\":\"fit-content\",\"lineHeight\":\"1.4\",\"minWidth\":\"10px\",\"textTransform\":\"uppercase\",\"fontFamily\":\"Roboto\",\"textAlign\":\"right\"},\"rawStyles\":{},\"mobileStyles\":{},\"tabletStyles\":{},\"attributes\":{},\"classes\":[],\"dataKey\":null,\"element\":\"p\",\"innerHTML\":\"<p>Divinity&nbsp; in healthcare</p>\",\"customAttributes\":{}}",
+  "component_id": "db81404f78732cbf",
+  "component_name": "Tagline",
+  "docstatus": 0,
+  "doctype": "Builder Component",
+  "for_web_page": null,
+  "modified": "2024-09-07 12:49:31.538466",
+  "name": "db81404f78732cbf"
+ }
+]
